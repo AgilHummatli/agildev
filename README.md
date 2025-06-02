@@ -17,7 +17,7 @@ I didn’t start with code. My background is in engineering and communication. I
 
 ## Current Focus
 
-- Algorithms and C++  
+- Algorithms and C/C++  
 - Backend logic and system design  
 - Version control, shell scripting, and Linux workflows  
 - Applying structured thinking to real tools
