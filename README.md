@@ -1,4 +1,4 @@
-# Aqil Hummatli
+# Agil Hummatli
 
 I’m exploring software and systems with a structured, long-term approach.
 
