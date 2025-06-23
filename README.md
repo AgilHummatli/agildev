@@ -1,4 +1,4 @@
-# Aqil Hummatli — Learning by Building
+# Aqil Hummatli
 
 I’m exploring software and systems with a structured, long-term approach.
 
@@ -20,4 +20,4 @@ My background is in engineering and communication. I moved into programming by f
 - [LinkedIn](https://linkedin.com/in/hummatlia)  
 - [GitHub Projects](https://github.com/AgilHummatli)
 
-> - Mistakes are part of building — not signs of failure
+- Mistakes are part of building, not signs of failure.
