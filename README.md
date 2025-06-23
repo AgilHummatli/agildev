@@ -4,8 +4,6 @@ I’m exploring software and systems with a structured, long-term approach.
 
 My background is in engineering and communication. I moved into programming by following logic, not trends, focusing on systems, tools, and thinking clearly.
 
-
-- Mistakes are part of building — not signs of failure
 ---
 
 ## Current Focus
@@ -22,4 +20,4 @@ My background is in engineering and communication. I moved into programming by f
 - [LinkedIn](https://linkedin.com/in/hummatlia)  
 - [GitHub Projects](https://github.com/AgilHummatli)
 
-> Calm focus. Small progress. Real work.
+> - Mistakes are part of building — not signs of failure
