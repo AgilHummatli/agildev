@@ -43,7 +43,7 @@ const BookingForm = ({ availableTimes, dispatch, submitForm }) => {
         <option>Anniversary</option>
       </select>
 
-      <input type="submit" value="Make Your Reservation" aria-label="On Click" disabled={!formData.date} />
+      <input type="submit" value="Make Your Reservation" aria-label="Submit reservation" disabled={!formData.date} />
     </form>
   );
 };
